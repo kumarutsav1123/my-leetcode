@@ -1,6 +1,6 @@
 # my-leetcode
 
-Journaling my leetcode journey here since //Date here// to maintain consistency.
+Journaling my leetcode journey here since `Date here` to maintain consistency.
 
 
 ---
