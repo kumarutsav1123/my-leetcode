@@ -1,6 +1,6 @@
 # my-leetcode
 
-Journaling my leetcode journey here since to maintain consistency.
+Journaling my leetcode journey here since //Date here// to maintain consistency.
 
 
 ---
@@ -9,5 +9,8 @@ Journaling my leetcode journey here since to maintain consistency.
 13th Nov 2022 Day4 - Rank 3,013,336
 
 14th Nov 2022 Day5 - **Rank 2,751,747**
+
+17th Nov 2022 Day8 - Rank 2,161,364
+
 
 ---
