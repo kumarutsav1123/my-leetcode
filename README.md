@@ -12,5 +12,7 @@ Journaling my leetcode journey here since `Date here` to maintain consistency.
 
 17th Nov 2022 Day8 - Rank 2,161,364
 
+18th Nov 2022 Day9 - Rank 1,987,952
+
 
 ---
