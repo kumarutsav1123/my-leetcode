@@ -1,0 +1,27 @@
+// Note - here we had to manipulate s only and not return our own created array
+char * convert(char * s, int numRows){
+    int size=0; //total numbers of char
+    for(int i=0; s[i]!=NULL; i++){
+        size++;
+    }
+    char arr[size];
+    int myIndex=0, i=0, rowNo=0;
+    arr[myIndex] = s[i];
+    myIndex++;
+    printf("%d ", size);
+    // from observation, turned out that to store the patternt, we have to store 2*(numRows-1)th charecter
+    for(i=4; myIndex!=(size-1); i+=(2*(numRows-(rowNo+1)))){
+        //run the loop until arr is full
+        arr[myIndex] = s[i];
+        printf("%c ", arr[myIndex]);
+        myIndex++;
+        
+    }
+    printf("\n\n");
+    for(int j=0; j<myIndex; j++){
+        printf("%c ", arr[j]);
+    }
+
+    s=arr;
+    return s;
+}
